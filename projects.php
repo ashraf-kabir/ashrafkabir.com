@@ -48,11 +48,13 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="project-page-3.php"><img class="card-img-top scale-on-hover"
-                                                                                     src="assets/img/project-images/project03.png"
-                                                                                     alt="Card Image"></a>
+                        <div class="card border-0"><a href="http://blog.ashrafkabir.com/"
+                                                      target="_blank""><img class="card-img-top scale-on-hover"
+                                                                            src="assets/img/project-images/project03.png"
+                                                                            alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="project-page-3.php">Personal Blog</a></h6>
+                                <h6><a href="http://blog.ashrafkabir.com/"
+                                       target="_blank">Personal Blog</a></h6>
                                 <p class="text-muted card-text">My personal blog</p>
                             </div>
                         </div>

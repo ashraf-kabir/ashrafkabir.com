@@ -37,7 +37,8 @@
                                     class="img-fluid image" src="assets/img/project-images/project01.png"></a></div>
                     <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.php"><img
                                     class="img-fluid image" src="assets/img/project-images/project02.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-3.php"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://blog.ashrafkabir.com/"
+                                                                         target="_blank"><img
                                     class="img-fluid image" src="assets/img/project-images/project03.png"></a></div>
                 </div>
             </div>

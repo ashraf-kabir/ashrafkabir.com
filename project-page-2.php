@@ -50,8 +50,9 @@
                             </div>
                         </div>
                         <div class="col-md-4 col-lg-3">
-                            <div class="item"><a href="project-page-3.php"><img class="img-fluid scale-on-hover"
-                                                                                src="assets/img/project-images/project03.png"></a>
+                            <div class="item"><a href="http://blog.ashrafkabir.com/"
+                                                 target="_blank"><img class="img-fluid scale-on-hover"
+                                                                      src="assets/img/project-images/project03.png"></a>
                             </div>
                         </div>
                         <div class="col-md-4 col-lg-3">
