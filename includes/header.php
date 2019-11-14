@@ -6,9 +6,9 @@
             class="collapse navbar-collapse" id="navbarNav">
             <ul class="nav navbar-nav ml-auto">
                 <li class="nav-item" role="presentation"><a class="nav-link active" href="index.php">Home</a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link" href="projects.php">Projects</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="http://blog.ashrafkabir.com/"
                                                             target="_blank">Blog</a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="projects.php">Projects</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="cv.php">CV</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="contact.php">Contact</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="hire-me.php">Hire me</a></li>
