@@ -14,6 +14,7 @@
 </head>
 
 <body>
+
     <!-- header -->
     <?php include "includes/header.php"; ?>
 
@@ -29,15 +30,14 @@
                        href="hire-me.php">Hire me</a></div>
             </div>
         </section>
-        <section class="portfolio-block photography">
+        <section data-aos="zoom-in-up" data-aos-duration="500" class="portfolio-block photography">
             <div class="container">
                 <div class="row no-gutters">
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="projects/project-page-1.php"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-1.php"><img
                                     class="img-fluid image" src="assets/img/project-images/project01.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="projects/project-page-2.php"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.php"><img
                                     class="img-fluid image" src="assets/img/project-images/project02.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://blog.ashrafkabir.com/"
-                                                                         target="_blank"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-3.php"><img
                                     class="img-fluid image" src="assets/img/project-images/project03.png"></a></div>
                 </div>
             </div>

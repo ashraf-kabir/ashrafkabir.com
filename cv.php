@@ -14,6 +14,7 @@
 </head>
 
 <body>
+
     <!-- header -->
     <?php include "includes/header.php"; ?>
 
@@ -72,7 +73,7 @@
                     <div class="heading">
                         <h2 class="text-center" data-aos="fade-up">Education</h2>
                     </div>
-                    <div data-aos="slide-up" class="item">
+                    <div data-aos="zoom-in-up" data-aos-duration="1000" class="item">
                         <div class="row">
                             <div class="col-md-6">
                                 <h3>Computer Science &amp; Engineering</h3>
@@ -83,7 +84,7 @@
                         <p class="text-muted">I am currently doing B.Sc. in Computer Science and Engineering at Brac
                                               University. It is located at 66 Mohakhali, Dhaka.</p>
                     </div>
-                    <div data-aos="slide-left" class="item">
+                    <div data-aos="zoom-in-up" data-aos-duration="1000" class="item">
                         <div class="row">
                             <div class="col-md-6">
                                 <h3>Science</h3>
@@ -95,7 +96,7 @@
                         <p class="text-muted">I studied at SJHSS for 2 years as a college student. I was in science
                                               group back then. It is situated at Asad Avenue, Mohammadpur, Dhaka.</p>
                     </div>
-                    <div data-aos="slide-right" class="item">
+                    <div data-aos="zoom-in-up" data-aos-duration="1000" class="item">
                         <div class="row">
                             <div class="col-md-6">
                                 <h3>Science</h3>
