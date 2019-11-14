@@ -36,33 +36,33 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="project-page-1.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project01.png" alt="Card Image"></a>
+                        <div class="card border-0"><a href="projects/project-page-1.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project01.png" alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="project-page-1.php">Toronto Online</a></h6>
+                                <h6><a href="projects/project-page-1.php">Toronto Online</a></h6>
                                 <p class="text-muted card-text">A travel blog which was developed by using wordpress.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="project-page-2.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project02.png" alt="Card Image"></a>
+                        <div class="card border-0"><a href="projects/project-page-2.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project02.png" alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="project-page-2.php">Two wheeled self-balancing robot</a></h6>
+                                <h6><a href="projects/project-page-2.php">Two wheeled self-balancing robot</a></h6>
                                 <p class="text-muted card-text">This robot can move using it's 2 wheels &amp; avoid obstacle.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="project-page-3.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project03.png" alt="Card Image"></a>
+                        <div class="card border-0"><a href="projects/project-page-3.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project03.png" alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="project-page-3.php">Personal Blog</a></h6>
+                                <h6><a href="projects/project-page-3.php">Personal Blog</a></h6>
                                 <p class="text-muted card-text">My personal blog</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="project-page-4.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project04.png" alt="Card Image"></a>
+                        <div class="card border-0"><a href="projects/project-page-4.php"><img class="card-img-top scale-on-hover" src="assets/img/project-images/project04.png" alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="project-page-4.php">Tech Blog</a></h6>
+                                <h6><a href="projects/project-page-4.php">Tech Blog</a></h6>
                                 <p class="text-muted card-text">My first ever technology related blog.</p>
                             </div>
                         </div>
