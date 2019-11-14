@@ -13,16 +13,16 @@
 
 <body>
     <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-white portfolio-navbar gradient">
-        <div class="container"><a class="navbar-brand logo" href="index.html">Ashraf Kabir</a>
+        <div class="container"><a class="navbar-brand logo" href="index.php">Ashraf Kabir</a>
             <button data-toggle="collapse" class="navbar-toggler" data-target="#navbarNav">
                 <span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="projects.html">Projects</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="cv.html">CV</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.html">Contact</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link active" href="hire-me.html">Hire me</a>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="projects.php">Projects</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="cv.php">CV</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.php">Contact</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link active" href="hire-me.php">Hire me</a>
                     </li>
                 </ul>
             </div>
@@ -37,11 +37,11 @@
                 <form data-bss-recipient="4c7cf26e9b3f2f682adc8d185716b13c">
                     <div class="form-group"><label for="subject">Subject</label><select class="form-control"
                                                                                         id="subject" required="">
-                        <option value="" selected="">Choose Subject</option>
-                        <option value="1">Web Developer</option>
-                        <option value="2">Image Editor</option>
-                        <option value="3">Content Creator</option>
-                    </select></div>
+                            <option value="" selected="">Choose Subject</option>
+                            <option value="1">Web Developer</option>
+                            <option value="2">Image Editor</option>
+                            <option value="3">Content Creator</option>
+                        </select></div>
                     <div
                             class="form-group"><label for="email">Email</label><input class="form-control" type="email"
                                                                                       id="email" name="email2"
@@ -72,15 +72,16 @@
     </main>
     <footer class="page-footer">
         <div class="container">
-            <div class="links"><a href="cv.html">About me</a><a href="contact.html">Contact me</a><a
-                    href="projects.html">Projects</a></div>
+            <div class="links"><a href="cv.php">About me</a><a href="contact.php">Contact me</a><a
+                        href="projects.php">Projects</a></div>
             <div class="social-icons"><a style="background-color: rgb(66,103,178);" target="_blank"
                                          href="https://www.facebook.com/sonnet404"><i
-                    class="icon ion-social-facebook"></i></a><a href="https://github.com/ashraf-kabir/"
-                                                                style="background-color: rgb(0,0,0);" target="_blank"><i
-                    class="icon ion-social-github"></i></a>
+                            class="icon ion-social-facebook"></i></a><a href="https://github.com/ashraf-kabir/"
+                                                                        style="background-color: rgb(0,0,0);"
+                                                                        target="_blank"><i
+                            class="icon ion-social-github"></i></a>
                 <a href="https://twitter.com/ashraf1Q95" style="background-color: rgb(29,161,242);"
-                        target="_blank"><i class="icon ion-social-twitter"></i></a>
+                   target="_blank"><i class="icon ion-social-twitter"></i></a>
             </div>
         </div>
     </footer>

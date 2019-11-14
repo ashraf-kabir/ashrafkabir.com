@@ -19,10 +19,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="index.php">Home</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="projects.html">Projects</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="cv.html">CV</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.html">Contact</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="hire-me.html">Hire me</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="projects.php">Projects</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="cv.php">CV</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.php">Contact</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="hire-me.php">Hire me</a></li>
                 </ul>
             </div>
         </div>
@@ -35,17 +35,17 @@
                     <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I have
                        passion for developing websites. I also design powerpoint slides, newsletter, postcards, etc.</p>
                     <a class="btn btn-outline-primary" role="button"
-                       href="hire-me.html">Hire me</a></div>
+                       href="hire-me.php">Hire me</a></div>
             </div>
         </section>
         <section class="portfolio-block photography">
             <div class="container">
                 <div class="row no-gutters">
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-1.html"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-1.php"><img
                             class="img-fluid image" src="assets/img/project-images/project01.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.html"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.php"><img
                             class="img-fluid image" src="assets/img/project-images/project02.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-3.html"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-3.php"><img
                             class="img-fluid image" src="assets/img/project-images/project03.png"></a></div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
             <div class="container">
                 <div class="d-flex justify-content-center align-items-center content">
                     <h3>Like what you see?</h3><a class="btn btn-outline-primary btn-lg" role="button"
-                                                  href="hire-me.html">Hire me</a></div>
+                                                  href="hire-me.php">Hire me</a></div>
             </div>
         </section>
         <section class="portfolio-block skills">
@@ -126,8 +126,8 @@
     </section>
     <footer class="page-footer">
         <div class="container">
-            <div class="links"><a href="cv.html">About me</a><a href="contact.html">Contact me</a><a
-                    href="projects.html">Projects</a></div>
+            <div class="links"><a href="cv.php">About me</a><a href="contact.php">Contact me</a><a
+                    href="projects.php">Projects</a></div>
             <div class="social-icons"><a style="background-color: rgb(66,103,178);" target="_blank"
                                          href="https://www.facebook.com/sonnet404"><i
                     class="icon ion-social-facebook"></i></a><a href="https://github.com/ashraf-kabir/"
