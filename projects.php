@@ -16,7 +16,7 @@
 <body>
     <!-- header -->
     <?php include "includes/header.php"; ?>
-    
+
     <main class="page projects-page">
         <section class="portfolio-block projects-cards">
             <div class="container" data-aos="zoom-in" data-aos-duration="1000">

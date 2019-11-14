@@ -14,51 +14,53 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-white portfolio-navbar gradient">
-        <div class="container"><a class="navbar-brand logo" href="../index.php">Ashraf Kabir</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navbarNav"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div
-                class="collapse navbar-collapse" id="navbarNav">
-                <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="../index.php">Home</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="../projects.php">Projects</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="../cv.php">CV</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="../contact.php">Contact</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="../hire-me.php">Hire me</a></li>
-                </ul>
-        </div>
-        </div>
-    </nav>
+    <!-- header -->
+    <?php include "../includes/header.php"; ?>
+
     <main class="page project-page">
         <section class="portfolio-block project">
             <div class="container">
                 <div class="heading">
                     <h2>tech blog</h2>
                 </div>
-                <div class="image" style="background-image: url(&quot;assets/img/project-images/project04a.png&quot;);"></div>
+                <div class="image"
+                     style="background-image: url(&quot;assets/img/project-images/project04a.png&quot;);"></div>
                 <div class="row">
                     <div class="col-12 col-md-6 offset-md-1 info">
                         <h3>Description</h3>
-                        <p>Nam a ultrices mauris. Nam efficitur, lorem a vehicula interdum, ligula velit euismod lorem, vitae vehicula ligula tortor eu leo. Maecenas porttitor massa ut vestibulum euismod. Aliquam eget mi aliquam.</p>
-                        <p>Lorem ipsum dapibus dolor non, malesuada mauris. Aliquam eleifend mauris non odio mattis auctor. Aenean sit amet elementum tellus, a facilisis ligula. Pellentesque ac vehicula mauris.</p>
+                        <p>Nam a ultrices mauris. Nam efficitur, lorem a vehicula interdum, ligula velit euismod lorem,
+                           vitae vehicula ligula tortor eu leo. Maecenas porttitor massa ut vestibulum euismod. Aliquam
+                           eget mi aliquam.</p>
+                        <p>Lorem ipsum dapibus dolor non, malesuada mauris. Aliquam eleifend mauris non odio mattis
+                           auctor. Aenean sit amet elementum tellus, a facilisis ligula. Pellentesque ac vehicula
+                           mauris.</p>
                     </div>
                     <div class="col-12 col-md-3 offset-md-1 meta">
-                        <div class="tags"><span class="meta-heading">Tags</span><a href="#">Resource</a><a href="#">Project</a><span class="meta-heading">Date</span><span>25-04-2017</span></div>
+                        <div class="tags"><span class="meta-heading">Tags</span><a href="#">Resource</a><a href="#">Project</a><span
+                                    class="meta-heading">Date</span><span>25-04-2017</span></div>
                     </div>
                 </div>
                 <div class="more-projects">
                     <h3 class="text-center">More Projects</h3>
                     <div class="row gallery">
                         <div class="col-md-4 col-lg-3">
-                            <div class="item"><a href="project-page-1.php"><img class="img-fluid scale-on-hover" src="../assets/img/project-images/project01.png"></a></div>
+                            <div class="item"><a href="project-page-1.php"><img class="img-fluid scale-on-hover"
+                                                                                src="../assets/img/project-images/project01.png"></a>
+                            </div>
                         </div>
                         <div class="col-md-4 col-lg-3">
-                            <div class="item"><a href="project-page-2.php"><img class="img-fluid scale-on-hover" src="../assets/img/project-images/project02.png"></a></div>
+                            <div class="item"><a href="project-page-2.php"><img class="img-fluid scale-on-hover"
+                                                                                src="../assets/img/project-images/project02.png"></a>
+                            </div>
                         </div>
                         <div class="col-md-4 col-lg-3">
-                            <div class="item"><a href="project-page-3.php"><img class="img-fluid scale-on-hover" src="../assets/img/project-images/project03.png"></a></div>
+                            <div class="item"><a href="project-page-3.php"><img class="img-fluid scale-on-hover"
+                                                                                src="../assets/img/project-images/project03.png"></a>
+                            </div>
                         </div>
                         <div class="col-md-4 col-lg-3">
-                            <div class="item"><a href="#"><img class="img-fluid scale-on-hover" src="../assets/img/project-images/image5.jpg"></a></div>
+                            <div class="item"><a href="#"><img class="img-fluid scale-on-hover"
+                                                               src="../assets/img/project-images/image5.jpg"></a></div>
                         </div>
                     </div>
                 </div>
@@ -67,10 +69,17 @@
     </main>
     <footer class="page-footer">
         <div class="container">
-            <div class="links"><a href="../cv.php">About me</a><a href="../contact.php">Contact me</a><a href="../projects.php">Projects</a></div>
-            <div class="social-icons"><a style="background-color: rgb(66,103,178);" target="_blank" href="https://www.facebook.com/sonnet404"><i class="icon ion-social-facebook"></i></a><a href="https://github.com/ashraf-kabir/" style="background-color: rgb(0,0,0);" target="_blank"><i class="icon ion-social-github"></i></a>
+            <div class="links"><a href="../cv.php">About me</a><a href="../contact.php">Contact me</a><a
+                        href="../projects.php">Projects</a></div>
+            <div class="social-icons"><a style="background-color: rgb(66,103,178);" target="_blank"
+                                         href="https://www.facebook.com/sonnet404"><i
+                            class="icon ion-social-facebook"></i></a><a href="https://github.com/ashraf-kabir/"
+                                                                        style="background-color: rgb(0,0,0);"
+                                                                        target="_blank"><i
+                            class="icon ion-social-github"></i></a>
                 <a
-                    href="https://twitter.com/ashraf1Q95" style="background-color: rgb(29,161,242);" target="_blank"><i class="icon ion-social-twitter"></i></a>
+                        href="https://twitter.com/ashraf1Q95" style="background-color: rgb(29,161,242);"
+                        target="_blank"><i class="icon ion-social-twitter"></i></a>
             </div>
         </div>
     </footer>
