@@ -98,9 +98,7 @@
             <div class="row align-items-center">
                 <div class="col-md-12 col-lg-5 offset-lg-1 text">
                     <h3>Website Project</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget velit ultricies, feugiat est
-                       sed, efr nunc, vivamus vel accumsan dui. Quisque ac dolor cursus, volutpat nisl vel, porttitor
-                       eros.</p>
+                    <p>Currently involved in various web projects like - alumni management system, travel management system, car-rental management system, different blog-sites etc.</p>
                 </div>
                 <div class="col-md-12 col-lg-5">
                     <div class="portfolio-laptop-mockup">
