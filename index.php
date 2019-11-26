@@ -98,7 +98,8 @@
             <div class="row align-items-center">
                 <div class="col-md-12 col-lg-5 offset-lg-1 text">
                     <h3>Website Project</h3>
-                    <p>Currently involved in various web projects like - alumni management system, travel management system, car-rental management system, different blog-sites etc.</p>
+                    <p>Currently involved in various web projects like - alumni management system, travel management
+                       system, car-rental management system, different blog-sites etc.</p>
                 </div>
                 <div class="col-md-12 col-lg-5">
                     <div class="portfolio-laptop-mockup">
