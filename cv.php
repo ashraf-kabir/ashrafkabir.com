@@ -23,10 +23,10 @@
             <div class="container" data-aos="zoom-in-up">
                 <div class="avatar" style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);"></div>
                 <div class="about-me">
-                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I have
-                       passion for developing websites. I also design powerpoint slides, newsletter, postcards, etc.</p>
-                    <a class="btn btn-outline-primary" role="button"
-                       href="hire-me.php">Hire me</a></div>
+                    <p>Hello! I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
+                       enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
+                       adaptable to challenging situations.</p>
+                    <a class="btn btn-outline-primary" role="button" href="hire-me.php">Hire me</a></div>
             </div>
         </section>
         <section class="portfolio-block cv">
@@ -114,7 +114,7 @@
                         <div class="col-md-6" data-aos="zoom-in-up" data-aos-duration="1500">
                             <div class="skills portfolio-info-card">
                                 <h2>Skills</h2>
-                                <h3>HTML</h3>
+                                <h3>HTML & CSS</h3>
                                 <div class="progress">
                                     <div class="progress-bar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                          style="width: 100%;"><span class="sr-only">100%</span></div>
@@ -128,6 +128,21 @@
                                 <div class="progress">
                                     <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
                                          style="width: 80%;"><span class="sr-only">80%</span></div>
+                                </div>
+                                <h3>Laravel</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 80%;"><span class="sr-only">80%</span></div>
+                                </div>
+                                <h3>Adobe Photoshop, Illustrator, InDesign</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 80%;"><span class="sr-only">80%</span></div>
+                                </div>
+                                <h3>Microsoft Office</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 90%;"><span class="sr-only">90%</span></div>
                                 </div>
                             </div>
                         </div>
@@ -152,7 +167,24 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1"><i class="icon ion-social-github icon"></i></div>
-                                    <div class="col-9"><span><a href="https://github.com/ashraf-kabir">https://github.com/ashraf-kabir</a></span>
+                                    <div class="col-9"><span><a href="https://github.com/ashraf-kabir/" target="_blank">https://github.com/ashraf-kabir/</a></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-1"><i class="icon ion-social-linkedin icon"></i></div>
+                                    <div class="col-9"><span><a href="https://www.linkedin.com/in/ashraf-kabir/"
+                                                                target="_blank">ashraf-kabir</a></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-1"><i class="icon ion-social-facebook icon"></i></div>
+                                    <div class="col-9"><span><a href="https://www.facebook.com/sonnet404/"
+                                                                target="_blank">sonnet404</a></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-1"><i class="icon ion-social-twitter icon"></i></div>
+                                    <div class="col-9"><span><a href="https://twitter.com/ashraf1Q95" target="_blank">ashraf1Q95</a></span>
                                     </div>
                                 </div>
                             </div>
@@ -163,10 +195,14 @@
                     <div class="heading">
                         <h2 class="text-center">Hobbies</h2>
                     </div>
-                    <p class="text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-                                                      risus ligula, iaculis ut metus sit amet, luctus pharetra mauris.
-                                                      Aliquam purus felis, pretium vel pretium vitae, dapibus sodales
-                                                      ante. Suspendisse potenti. Duis nunc eros.</p>
+                    <p class="text-center text-muted">I have a lot of hobbies but the favorite one that I like most is
+                                                      playing football. When I have free time, I love to play football.
+                                                      I’m a big fan of football since my childhood. Moreover, I like to
+                                                      listen music. When I get spare time I listen to band musics. My
+                                                      favourite band is Coldplay. Besides, I listen to rap also & a big
+                                                      fan of Eminem. Apart from learning new programming languages, I
+                                                      have also interest on learning new natural languages (e.g.
+                                                      Spanish, French, etc.) on my leisure.</p>
                 </div>
             </div>
         </section>

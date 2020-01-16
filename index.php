@@ -24,8 +24,9 @@
                 <div class="pulse animated avatar"
                      style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);"></div>
                 <div class="about-me">
-                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I have
-                       passion for developing websites. I also design powerpoint slides, newsletter, postcards, etc.</p>
+                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
+                       enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
+                       adaptable to challenging situations.</p>
                     <a class="btn btn-outline-primary" role="button"
                        href="hire-me.php">Hire me</a></div>
             </div>
