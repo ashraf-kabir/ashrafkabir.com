@@ -84,7 +84,7 @@
                                                                     src="assets/img/project-images/image6.jpg"
                                                                     alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="#">Lorem Ipsum</a></h6>
+                                <h6><a href="#">Coming Soon</a></h6>
                                 <p class="text-muted card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                                                 Nunc quam urna.</p>
                             </div>
