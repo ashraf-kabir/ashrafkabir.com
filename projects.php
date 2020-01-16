@@ -65,18 +65,17 @@
                                                                                      alt="Card Image"></a>
                             <div class="card-body">
                                 <h6><a href="project-page-4.php">Tech Blog</a></h6>
-                                <p class="text-muted card-text">My first ever technology related blog.</p>
+                                <p class="text-muted card-text">My first ever technology related blog</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0"><a href="#"><img class="card-img-top scale-on-hover"
-                                                                    src="assets/img/project-images/image5.jpg"
+                                                                    src="assets/img/project-images/project05.PNG"
                                                                     alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="#">Lorem Ipsum</a></h6>
-                                <p class="text-muted card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                Nunc quam urna.</p>
+                                <h6><a href="#">Laravel Blog</a></h6>
+                                <p class="text-muted card-text">Dynamic Laravel blog with login system</p>
                             </div>
                         </div>
                     </div>
