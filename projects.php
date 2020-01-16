@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0"><a href="http://blog.ashrafkabir.com/"
-                                                      target="_blank""><img class="card-img-top scale-on-hover"
+                                                      target="_blank"><img class="card-img-top scale-on-hover"
                                                                             src="assets/img/project-images/project03.png"
                                                                             alt="Card Image"></a>
                             <div class="card-body">
@@ -70,11 +70,11 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="#"><img class="card-img-top scale-on-hover"
+                        <div class="card border-0"><a href="http://larablog.ashrafkabir.com" target="_blank"><img class="card-img-top scale-on-hover"
                                                                     src="assets/img/project-images/project05.PNG"
                                                                     alt="Card Image"></a>
                             <div class="card-body">
-                                <h6><a href="#">Laravel Blog</a></h6>
+                                <h6><a href="http://larablog.ashrafkabir.com/" target="_blank">Laravel Blog</a></h6>
                                 <p class="text-muted card-text">Dynamic Laravel blog with login system</p>
                             </div>
                         </div>
