@@ -38,24 +38,25 @@
                     <div data-aos="zoom-in-up" class="item">
                         <div class="row">
                             <div class="col-md-6">
-                                <h3>Web Developer</h3>
-                                <h4 class="organization" style="font-size: 18px;">IEEE Bracu Branch</h4>
+                                <h3>Webmaster</h3>
+                                <h4 class="organization" style="font-size: 18px;">IEEE Brac University Student
+                                                                                  Branch</h4>
                             </div>
-                            <div class="col-md-6"><span class="period">09/2019 -Present</span></div>
+                            <div class="col-md-6"><span class="period">01/2020 -Present</span></div>
                         </div>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget velit
-                                              ultricies, feugiat est sed, efficitur nunc, vivamus vel accumsan dui.</p>
+                        <p class="text-muted">A non-profit organization, IEEE is the world's leading professional
+                                              association for the advancement of technology.</p>
                     </div>
                     <div data-aos="zoom-in-right" class="item">
                         <div class="row">
                             <div class="col-6">
-                                <h3>Front End Developer</h3>
+                                <h3>Web Developer</h3>
                                 <h4 class="organization" style="font-size: 18px;">Freelance</h4>
                             </div>
                             <div class="col-md-6"><span class="period">03/2017 - Present</span></div>
                         </div>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget velit
-                                              ultricies, feugiat est sed, efficitur nunc, vivamus vel accumsan dui.</p>
+                        <p class="text-muted">I did many web projects using php, laravel, mysql, etc. for various
+                                              clients and did many university projects also.</p>
                     </div>
                     <div data-aos="zoom-in-left" class="item">
                         <div class="row">
@@ -65,8 +66,8 @@
                             </div>
                             <div class="col-md-6"><span class="period">05/2016- Present</span></div>
                         </div>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget velit
-                                              ultricies, feugiat est sed, efficitur nunc, vivamus vel accumsan dui.</p>
+                        <p class="text-muted">Top 5 contributor for English to Bengali and Bengali to English. Actively
+                                              participating in translation since 2016.</p>
                     </div>
                 </div>
                 <div class="education group">
@@ -76,7 +77,7 @@
                     <div data-aos="zoom-in-up" data-aos-duration="1000" class="item">
                         <div class="row">
                             <div class="col-md-6">
-                                <h3>Computer Science &amp; Engineering</h3>
+                                <h3>Computer Science and Engineering</h3>
                                 <h4 class="organization" style="font-size: 18px;">Brac University</h4>
                             </div>
                             <div class="col-6"><span class="period">05/2016 - 08/2020</span></div>
