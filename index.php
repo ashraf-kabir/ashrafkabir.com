@@ -28,13 +28,14 @@
                        enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
                        adaptable to challenging situations.</p>
                     <a class="btn btn-outline-primary" role="button"
-                       href="hire-me.php">Hire me</a></div>
+                       href="hire-me.php">Hire me</a>
+                </div>
             </div>
         </section>
         <section data-aos="zoom-in-up" data-aos-duration="500" class="portfolio-block photography">
             <div class="container">
                 <div class="row no-gutters">
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-1.php"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://travelblog.ashrafkabir.com/" target="_blank"><img
                                     class="img-fluid image" src="assets/img/project-images/project01.png"></a></div>
                     <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.php"><img
                                     class="img-fluid image" src="assets/img/project-images/project02.png"></a></div>
@@ -47,8 +48,9 @@
         <section class="portfolio-block call-to-action border-bottom">
             <div class="container">
                 <div class="d-flex justify-content-center align-items-center content">
-                    <h3>Like what you see?</h3><a class="btn btn-outline-primary btn-lg" role="button"
-                                                  href="hire-me.php">Hire me</a></div>
+                    <h3>Like what you see?</h3>
+                    <a class="btn btn-outline-primary btn-lg" role="button" href="hire-me.php">Hire me</a>
+                </div>
             </div>
         </section>
         <section class="portfolio-block skills">
@@ -106,7 +108,8 @@
                     <div class="portfolio-laptop-mockup">
                         <div class="screen">
                             <div class="screen-content"
-                                 style="background-image:url(&quot;assets/img/tech/image6.png&quot;);"></div>
+                                 style="background-image:url(&quot;assets/img/tech/image6.png&quot;);">
+                            </div>
                         </div>
                         <div class="keyboard"></div>
                     </div>
