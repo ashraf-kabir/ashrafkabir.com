@@ -15,7 +15,6 @@
 </head>
 
 <body>
-
     <!-- header -->
     <?php include "includes/header.php"; ?>
 
@@ -24,10 +23,9 @@
                  style="background-image: url(&quot;assets/img/scenery/image3.jpg&quot;);color: rgba(0,0,0,0.85);">
             <div class="text">
                 <h2>Bonjour!</h2>
-                <p>I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
-                   enthusiastic, self-motivated, responsible and hard working person, a team worker &
-                   adaptable to challenging situations.</p>
+                <p>I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer.</p>
                 <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
+                <a href="#" class="scroll-down" address="true"></a>
             </div>
         </section>
 <!--        <section class="portfolio-block block-intro">-->
@@ -47,7 +45,7 @@
 <!--                </div>-->
 <!--            </div>-->
 <!--        </section>-->
-        <section class="portfolio-block photography" style="padding-top: 100px;">
+        <section class="recent portfolio-block photography" style="padding-top: 100px;">
             <div class="heading">
                 <h2>Recent Projects</h2>
             </div>
@@ -137,9 +135,17 @@
         </div>
     </section>
 
+    <script>
+        $(function() {
+            $('.scroll-down').click (function() {
+                $('html, body').animate({scrollTop: $('section.recent').offset().top }, 'slow');
+                return false;
+            });
+        });
+    </script>
+
     <!-- footer -->
     <?php include "includes/footer.php"; ?>
-
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/smart-forms.min.js"></script>
