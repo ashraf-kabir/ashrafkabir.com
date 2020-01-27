@@ -25,7 +25,7 @@
             <div class="text">
                 <h2>Bonjour!</h2>
                 <p>I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
-                   enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
+                   enthusiastic, self-motivated, responsible and hard working person, a team worker &
                    adaptable to challenging situations.</p>
                 <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
             </div>
