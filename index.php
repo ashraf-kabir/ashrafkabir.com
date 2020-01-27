@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/css/pikaday.min.css">
+    <link rel="stylesheet" href="includes/css/style.css">
 </head>
 
 <body>
@@ -19,10 +20,21 @@
     <?php include "includes/header.php"; ?>
 
     <main class="page lanidng-page">
+        <section class="clean-block clean-hero"
+                 style="background-image: url(&quot;assets/img/scenery/image3.jpg&quot;);color: rgba(0,0,0,0.85);">
+            <div class="text">
+                <h2>Bonjour!</h2>
+                <p>I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
+                   enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
+                   adaptable to challenging situations.</p>
+                <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
+            </div>
+        </section>
         <section class="portfolio-block block-intro">
             <div class="container" data-aos="zoom-in-up">
                 <div class="pulse animated avatar"
-                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);"></div>
+                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">
+                </div>
                 <div class="about-me">
                     <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
                        enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
@@ -35,7 +47,8 @@
         <section data-aos="zoom-in-up" data-aos-duration="500" class="portfolio-block photography">
             <div class="container">
                 <div class="row no-gutters">
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://travelblog.ashrafkabir.com/" target="_blank"><img
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://travelblog.ashrafkabir.com/"
+                                                                         target="_blank"><img
                                     class="img-fluid image" src="assets/img/project-images/project01.png"></a></div>
                     <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.php"><img
                                     class="img-fluid image" src="assets/img/project-images/project02.png"></a></div>

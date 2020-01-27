@@ -1,0 +1,83 @@
+.clean-block.clean-hero {
+    position: relative;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-bottom: 0;
+}
+
+.clean-block.clean-hero:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: currentColor;
+    z-index: 1;
+}
+
+.clean-block.clean-hero .text {
+    max-width: 640px;
+    color: #fff;
+    z-index: 2;
+    padding: 40px 15px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .15)
+}
+
+.clean-block.clean-hero h2 {
+    margin-bottom: 30px;
+}
+
+.clean-block.clean-hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+@media (min-width: 576px) {
+    .clean-block {
+        padding-bottom: 100px;
+    }
+
+    .clean-block .block-heading {
+        padding-top: 80px;
+    }
+
+    .clean-block.clean-hero {
+        min-height: 680px;
+    }
+
+    .clean-block.clean-hero .text {
+        padding: 0;
+    }
+
+    .clean-block.clean-block.clean-gallery .item {
+        margin-bottom: 40px;
+    }
+
+    .clean-block.payment-form .title {
+        font-size: 1.2em;
+    }
+
+    .clean-block.payment-form .products {
+        padding: 40px;
+    }
+
+    .clean-block.payment-form .products .item-name, .clean-block.payment-form .products .price {
+        font-size: 1em;
+    }
+
+    .clean-block.payment-form .card-details {
+        padding: 40px 40px 30px;
+    }
+
+    .clean-block.payment-form .card-details button {
+        margin-top: 2em;
+    }
+}
