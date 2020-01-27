@@ -31,7 +31,10 @@
             </div>
         </section>
         <section class="portfolio-block block-intro">
-            <div class="container" data-aos="zoom-in-up">
+            <div class="heading">
+                <h2>About Me</h2>
+            </div>
+            <div class="container" data-aos="fade-down" data-aos-duration="500">
                 <div class="pulse animated avatar"
                      style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">
                 </div>
@@ -44,7 +47,10 @@
                 </div>
             </div>
         </section>
-        <section data-aos="zoom-in-up" data-aos-duration="500" class="portfolio-block photography">
+        <section class="portfolio-block photography">
+            <div class="heading">
+                <h2>Recent Projects</h2>
+            </div>
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://travelblog.ashrafkabir.com/"
@@ -67,7 +73,7 @@
             </div>
         </section>
         <section class="portfolio-block skills">
-            <div class="container" data-aos="fade-down" data-aos-duration="1500">
+            <div class="container" data-aos="fade-down" data-aos-duration="1000">
                 <div class="heading">
                     <h2>Special Skills</h2>
                 </div>
