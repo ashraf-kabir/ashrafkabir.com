@@ -30,24 +30,24 @@
                 <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
             </div>
         </section>
-        <section class="portfolio-block block-intro">
-            <div class="heading">
-                <h2>About Me</h2>
-            </div>
-            <div class="container" data-aos="fade-down" data-aos-duration="500">
-                <div class="pulse animated avatar"
-                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">
-                </div>
-                <div class="about-me">
-                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
-                       enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
-                       adaptable to challenging situations.</p>
-                    <a class="btn btn-outline-primary" role="button"
-                       href="hire-me.php">Hire me</a>
-                </div>
-            </div>
-        </section>
-        <section class="portfolio-block photography">
+<!--        <section class="portfolio-block block-intro">-->
+<!--            <div class="heading">-->
+<!--                <h2>About Me</h2>-->
+<!--            </div>-->
+<!--            <div class="container" data-aos="fade-down" data-aos-duration="500">-->
+<!--                <div class="pulse animated avatar"-->
+<!--                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">-->
+<!--                </div>-->
+<!--                <div class="about-me">-->
+<!--                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an-->
+<!--                       enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &-->
+<!--                       adaptable to challenging situations.</p>-->
+<!--                    <a class="btn btn-outline-primary" role="button"-->
+<!--                       href="hire-me.php">Hire me</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
+        <section class="portfolio-block photography" style="padding-top: 100px;">
             <div class="heading">
                 <h2>Recent Projects</h2>
             </div>
