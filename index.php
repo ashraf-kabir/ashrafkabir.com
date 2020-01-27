@@ -25,7 +25,7 @@
                 <h2>Bonjour!</h2>
                 <p>I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer.</p>
                 <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
-                <a href="#" class="scroll-down" address="true"></a>
+                <a href="#section2" class="scroll-down" address="true"></a>
             </div>
         </section>
 <!--        <section class="portfolio-block block-intro">-->
@@ -45,7 +45,7 @@
 <!--                </div>-->
 <!--            </div>-->
 <!--        </section>-->
-        <section class="recent portfolio-block photography" style="padding-top: 100px;">
+        <section id="section2" class="recent portfolio-block photography" style="padding-top: 100px;">
             <div class="heading">
                 <h2>Recent Projects</h2>
             </div>
@@ -137,9 +137,9 @@
 
     <script>
         $(function() {
-            $('.scroll-down').click (function() {
-                $('html, body').animate({scrollTop: $('section.recent').offset().top }, 'slow');
-                return false;
+            $('a[href*=#]').on('click', function(e) {
+                e.preventDefault();
+                $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 1500, 'slow');
             });
         });
     </script>
