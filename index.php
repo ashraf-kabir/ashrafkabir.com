@@ -23,29 +23,31 @@
                  style="background-image: url(&quot;assets/img/scenery/image3.jpg&quot;);color: rgba(0,0,0,0.85);">
             <div class="text">
                 <h2>Bonjour!</h2>
-                <p>I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer.</p>
-                <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
+                <p>This is&nbsp;<strong>Ashraf&nbsp;Kabir</strong><br>a web developer who is busy 24/7 with php, js, mysql & many more.</p>
+                <div class="d-none d-md-block">
+                    <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
+                </div>
                 <a href="#section2" class="scroll-down" address="true"></a>
             </div>
         </section>
-<!--        <section class="portfolio-block block-intro">-->
-<!--            <div class="heading">-->
-<!--                <h2>About Me</h2>-->
-<!--            </div>-->
-<!--            <div class="container" data-aos="fade-down" data-aos-duration="500">-->
-<!--                <div class="pulse animated avatar"-->
-<!--                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">-->
-<!--                </div>-->
-<!--                <div class="about-me">-->
-<!--                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an-->
-<!--                       enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &-->
-<!--                       adaptable to challenging situations.</p>-->
-<!--                    <a class="btn btn-outline-primary" role="button"-->
-<!--                       href="hire-me.php">Hire me</a>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-        <section id="section2" class="recent portfolio-block photography" style="padding-top: 100px;">
+        <section id="section2" class="portfolio-block block-intro">
+            <div class="heading">
+                <h2>About Me</h2>
+            </div>
+            <div class="container" data-aos="fade-down" data-aos-duration="500">
+                <div class="pulse animated avatar"
+                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">
+                </div>
+                <div class="about-me">
+                    <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I'm an
+                       enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
+                       adaptable to challenging situations.</p>
+                    <a class="btn btn-outline-primary" role="button"
+                       href="hire-me.php">Hire me</a>
+                </div>
+            </div>
+        </section>
+        <section class="recent portfolio-block photography" style="padding-top: 100px;">
             <div class="heading">
                 <h2>Recent Projects</h2>
             </div>

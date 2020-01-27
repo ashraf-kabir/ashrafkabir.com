@@ -50,7 +50,7 @@
     }
 
     .clean-block.clean-hero {
-        min-height: 900px;
+        min-height: 800px;
     }
 
     .clean-block.clean-hero .text {
@@ -82,6 +82,12 @@
     }
 }
 
+/*#scrolldown {*/
+/*    position: absolute;*/
+/*    bottom: 60px;*/
+/*    display: block;*/
+/*    right: 50%;*/
+/*}*/
 
 .scroll-down {
     opacity: 1;
