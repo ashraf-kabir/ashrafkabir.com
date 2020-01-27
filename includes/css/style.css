@@ -1,3 +1,7 @@
+body {
+    margin-top: -5px;
+}
+
 .clean-block.clean-hero {
     position: relative;
     text-align: center;
@@ -28,7 +32,7 @@
     color: #fff;
     z-index: 2;
     padding: 40px 15px;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, .15)
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .15);
 }
 
 .clean-block.clean-hero h2 {
@@ -50,7 +54,7 @@
     }
 
     .clean-block.clean-hero {
-        min-height: 800px;
+        min-height: 780px;
     }
 
     .clean-block.clean-hero .text {
@@ -147,5 +151,3 @@
         transform: translateY(-5px);
     }
 }
-
-
