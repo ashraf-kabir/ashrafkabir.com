@@ -3,6 +3,17 @@
 
 <head>
     <meta charset="utf-8">
+
+    <meta property="og:title" content="Ashraf Kabir">
+    <meta property="og:description" content="A web developer who is busy 24/7 with php, js, mysql & many more.">
+    <meta property="og:image" content="http://ashrafkabir.com/thumbnail.png">
+    <meta property="og:url" content="http://ashrafkabir.com/index.php">
+
+    <meta name="twitter:title" content="Ashraf Kabir">
+    <meta name="twitter:description" content="A web developer who is busy 24/7 with php, js, mysql & many more.">
+    <meta name="twitter:image" content="http://ashrafkabir.com/thumbnail.png">
+    <meta name="twitter:card" content="summary_large_image">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Home - Ashraf Kabir</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
