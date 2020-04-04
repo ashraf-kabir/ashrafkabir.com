@@ -28,17 +28,43 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
-                            <a href="http://travelblog.ashrafkabir.com/" target="_blank">
-                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/project01.png"
+                            <a href="https://todos.ashrafkabir.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/todos.PNG"
                                      alt="Card Image">
                             </a>
                             <div class="card-body">
-                                <h6><a href="project-page-1.php">Toronto Online</a></h6>
-                                <p class="text-muted card-text">A travel blog which was developed by using
-                                                                wordpress.</p>
+                                <h6><a href="project-page-1.php">Task Manager App</a></h6>
+                                <p class="text-muted card-text">Laravel Task Manager App</p>
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0"><a href="http://larablog.ashrafkabir.com" target="_blank"><img
+                                    class="card-img-top scale-on-hover"
+                                    src="assets/img/project-images/project05.PNG"
+                                    alt="Card Image"></a>
+                            <div class="card-body">
+                                <h6><a href="http://larablog.ashrafkabir.com/" target="_blank">Laravel Blog</a></h6>
+                                <p class="text-muted card-text">Dynamic Laravel blog with login system</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="http://blog.ashrafkabir.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/blog.PNG"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="http://blog.ashrafkabir.com/"
+                                       target="_blank">Personal Blog in Laravel</a></h6>
+                                <p class="text-muted card-text">Kabir's Blog</p>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
                             <a href="project-page-2.php">
@@ -52,19 +78,21 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
-                            <a href="http://blog.ashrafkabir.com/" target="_blank">
-                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/project03.png"
+                            <a href="http://travelblog.ashrafkabir.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/project01.png"
                                      alt="Card Image">
                             </a>
                             <div class="card-body">
-                                <h6><a href="http://blog.ashrafkabir.com/"
-                                       target="_blank">Personal Blog</a></h6>
-                                <p class="text-muted card-text">My personal blog</p>
+                                <h6><a href="project-page-1.php">Toronto Online</a></h6>
+                                <p class="text-muted card-text">A travel blog which was developed by using
+                                                                wordpress.</p>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
                             <a href="http://fastlearn.ashrafkabir.com/" target="_blank">
@@ -74,28 +102,6 @@
                             <div class="card-body">
                                 <h6><a href="project-page-4.php">Tech Blog</a></h6>
                                 <p class="text-muted card-text">My first ever technology related blog</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="http://larablog.ashrafkabir.com" target="_blank"><img
-                                        class="card-img-top scale-on-hover"
-                                        src="assets/img/project-images/project05.PNG"
-                                        alt="Card Image"></a>
-                            <div class="card-body">
-                                <h6><a href="http://larablog.ashrafkabir.com/" target="_blank">Laravel Blog</a></h6>
-                                <p class="text-muted card-text">Dynamic Laravel blog with login system</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card border-0"><a href="#"><img class="card-img-top scale-on-hover"
-                                                                    src="assets/img/project-images/image6.jpg"
-                                                                    alt="Card Image"></a>
-                            <div class="card-body">
-                                <h6><a href="#">Coming Soon</a></h6>
-                                <p class="text-muted card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                Nunc quam urna.</p>
                             </div>
                         </div>
                     </div>

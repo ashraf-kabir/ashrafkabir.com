@@ -64,14 +64,14 @@
             </div>
             <div class="container">
                 <div class="row no-gutters">
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://travelblog.ashrafkabir.com/"
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://todos.ashrafkabir.com/"
                                                                          target="_blank"><img
-                                    class="img-fluid image" src="assets/img/project-images/project01.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="project-page-2.php"><img
-                                    class="img-fluid image" src="assets/img/project-images/project02.png"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://blog.ashrafkabir.com/"
+                                    class="img-fluid image" src="assets/img/project-images/todos.PNG"></a></div>
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://larablog.ashrafkabir.com/"><img
+                                    class="img-fluid image" src="assets/img/project-images/project05.PNG"></a></div>
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://blog.ashrafkabir.com/"
                                                                          target="_blank"><img
-                                    class="img-fluid image" src="assets/img/project-images/project03.png"></a></div>
+                                    class="img-fluid image" src="assets/img/project-images/blog.PNG"></a></div>
                 </div>
             </div>
         </section>
