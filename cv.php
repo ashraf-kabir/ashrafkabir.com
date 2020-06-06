@@ -36,6 +36,20 @@
                     <div class="heading">
                         <h2 class="text-center" data-aos="fade-up">Work Experience</h2>
                     </div>
+
+                    <div data-aos="zoom-in-up" class="item">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3>Dev Intern, Media Analytics Team</h3>
+                                <h4 class="organization" style="font-size: 18px;">Magnito Digital</h4>
+                            </div>
+                            <div class="col-md-6"><span class="period">04/2020 -Present</span></div>
+                        </div>
+                        <p class="text-muted">Magnito Digital is the largest digital agency of Bangladesh with a team of
+                                              more than 90 people. We are famous for our unconventional company
+                                              culture.</p>
+                    </div>
+
                     <div data-aos="zoom-in-up" class="item">
                         <div class="row">
                             <div class="col-md-6">
