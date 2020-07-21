@@ -22,7 +22,7 @@
     <main class="page cv-page">
         <section class="portfolio-block block-intro border-bottom">
             <div class="container" data-aos="zoom-in-up">
-                <div class="avatar" style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);"></div>
+                <div class="avatar" style="background-image: url(&quot;assets/img/avatars/dp.jpg&quot;);"></div>
                 <div class="about-me">
                     <p>Hello! I'm&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I work as full stack web developer. I'm an
                        enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
@@ -129,12 +129,22 @@
                         <div class="col-md-6" data-aos="zoom-in-up" data-aos-duration="1500">
                             <div class="skills portfolio-info-card">
                                 <h2>Skills</h2>
-                                <h3>HTML & CSS</h3>
+                                <h3>HTML5 & CSS3</h3>
                                 <div class="progress">
                                     <div class="progress-bar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                          style="width: 100%;"><span class="sr-only">100%</span></div>
                                 </div>
                                 <h3>PHP</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 90%;"><span class="sr-only">90%</span></div>
+                                </div>
+                                <h3>Wordpress</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 90%;"><span class="sr-only">90%</span></div>
+                                </div>
+                                <h3>SQL</h3>
                                 <div class="progress">
                                     <div class="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
                                          style="width: 90%;"><span class="sr-only">90%</span></div>
@@ -145,6 +155,21 @@
                                          style="width: 80%;"><span class="sr-only">80%</span></div>
                                 </div>
                                 <h3>Laravel</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 80%;"><span class="sr-only">80%</span></div>
+                                </div>
+                                <h3>Node JS</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 80%;"><span class="sr-only">80%</span></div>
+                                </div>
+                                <h3>React JS</h3>
+                                <div class="progress">
+                                    <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                         style="width: 80%;"><span class="sr-only">80%</span></div>
+                                </div>
+                                <h3>MongoDB</h3>
                                 <div class="progress">
                                     <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
                                          style="width: 80%;"><span class="sr-only">80%</span></div>

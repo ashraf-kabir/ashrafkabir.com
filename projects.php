@@ -23,9 +23,67 @@
         <section class="portfolio-block projects-cards">
             <div class="container" data-aos="zoom-in" data-aos-duration="1000">
                 <div class="heading">
-                    <h2 data-aos="fade-up">Recent Work</h2>
+                    <h2 data-aos="fade-up">PROJECTS</h2>
                 </div>
                 <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="https://whispering-brushlands-59184.herokuapp.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover"
+                                     src="assets/img/project-images/devconnector.png"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="https://whispering-brushlands-59184.herokuapp.com/" target="_blank">MERN
+                                                                                                                 DevConnector</a>
+                                </h6>
+                                <p class="text-muted card-text">Social Media App for Developers</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="http://ieeebracu.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/ieeebracu.png"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="http://alumni.ieeebracu.com/" target="_blank">IEEE BRACU Student Branch</a>
+                                </h6>
+                                <p class="text-muted card-text">Official Website</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="http://ieeebracu.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/alumni.png"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="http://alumni.ieeebracu.com/" target="_blank">Alumni Site IEEE BRACU SB</a>
+                                </h6>
+                                <p class="text-muted card-text">Official Website</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="https://forum.ashrafkabir.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/forum.png"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="https://forum.ashrafkabir.com/" target="_blank">Forum Discussion App</a>
+                                </h6>
+                                <p class="text-muted card-text">Laravel Task Manager App</p>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
                             <a href="https://todos.ashrafkabir.com/" target="_blank">
@@ -33,7 +91,7 @@
                                      alt="Card Image">
                             </a>
                             <div class="card-body">
-                                <h6><a href="project-page-1.php">Task Manager App</a></h6>
+                                <h6><a href="https://todos.ashrafkabir.com/" target="_blank">Task Manager App</a></h6>
                                 <p class="text-muted card-text">Laravel Task Manager App</p>
                             </div>
                         </div>
@@ -41,9 +99,9 @@
 
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0"><a href="http://larablog.ashrafkabir.com" target="_blank"><img
-                                    class="card-img-top scale-on-hover"
-                                    src="assets/img/project-images/project05.PNG"
-                                    alt="Card Image"></a>
+                                        class="card-img-top scale-on-hover"
+                                        src="assets/img/project-images/project05.PNG"
+                                        alt="Card Image"></a>
                             <div class="card-body">
                                 <h6><a href="http://larablog.ashrafkabir.com/" target="_blank">Laravel Blog</a></h6>
                                 <p class="text-muted card-text">Dynamic Laravel blog with login system</p>
@@ -53,12 +111,12 @@
 
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
-                            <a href="http://blog.ashrafkabir.com/" target="_blank">
+                            <a href="https://blog.ashrafkabir.com/" target="_blank">
                                 <img class="card-img-top scale-on-hover" src="assets/img/project-images/blog.PNG"
                                      alt="Card Image">
                             </a>
                             <div class="card-body">
-                                <h6><a href="http://blog.ashrafkabir.com/"
+                                <h6><a href="https://blog.ashrafkabir.com/"
                                        target="_blank">Personal Blog in Laravel</a></h6>
                                 <p class="text-muted card-text">Kabir's Blog</p>
                             </div>
@@ -75,6 +133,20 @@
                                 <h6><a href="project-page-2.php">Two wheeled self-balancing robot</a></h6>
                                 <p class="text-muted card-text">This robot can move using it's 2 wheels &amp; avoid
                                                                 obstacle.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="https://personalblog.ashrafkabir.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover" src="assets/img/project-images/personalblog.png"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="https://personalblog.ashrafkabir.com/"
+                                       target="_blank">Personal Blog</a></h6>
+                                <p class="text-muted card-text">Personal Blog in PHP PDO</p>
                             </div>
                         </div>
                     </div>

@@ -34,7 +34,8 @@
                  style="background-image: url(&quot;assets/img/scenery/image3.jpg&quot;);color: rgba(0,0,0,0.85);">
             <div class="text">
                 <h2>Bonjour!</h2>
-                <p>This is&nbsp;<strong>Ashraf&nbsp;Kabir</strong><br>a web developer who is busy 24/7 with php, js, mysql & many more.</p>
+                <p>This is&nbsp;<strong>Ashraf&nbsp;Kabir</strong><br>a web developer who is busy 24/7 with php, js,
+                   mysql & many more.</p>
                 <div class="d-none d-md-block">
                     <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
                 </div>
@@ -47,7 +48,7 @@
             </div>
             <div class="container" data-aos="fade-down" data-aos-duration="500">
                 <div class="pulse animated avatar"
-                     style="background-image: url(&quot;assets/img/avatars/avatar.jpg&quot;);">
+                     style="background-image: url(&quot;assets/img/avatars/dp.jpg&quot;);">
                 </div>
                 <div class="about-me">
                     <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I'm an
@@ -64,11 +65,22 @@
             </div>
             <div class="container">
                 <div class="row no-gutters">
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a
+                                href="https://whispering-brushlands-59184.herokuapp.com/"
+                                target="_blank"><img
+                                    class="img-fluid image" src="assets/img/project-images/devconnector.png"></a></div>
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://ieeebracu.com/"
+                                                                         target="_blank"><img
+                                    class="img-fluid image" src="assets/img/project-images/ieeebracu.png"></a></div>
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://alumni.ieeebracu.com/"
+                                                                         target="_blank"><img
+                                    class="img-fluid image" src="assets/img/project-images/alumni.png"></a></div>
+                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://forum.ashrafkabir.com/"
+                                                                         target="_blank"><img
+                                    class="img-fluid image" src="assets/img/project-images/forum.png"></a></div>
                     <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://todos.ashrafkabir.com/"
                                                                          target="_blank"><img
                                     class="img-fluid image" src="assets/img/project-images/todos.PNG"></a></div>
-                    <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://larablog.ashrafkabir.com/"><img
-                                    class="img-fluid image" src="assets/img/project-images/project05.PNG"></a></div>
                     <div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="https://blog.ashrafkabir.com/"
                                                                          target="_blank"><img
                                     class="img-fluid image" src="assets/img/project-images/blog.PNG"></a></div>
@@ -149,10 +161,10 @@
     </section>
 
     <script>
-        $(function() {
-            $('a[href*=#]').on('click', function(e) {
+        $(function () {
+            $('a[href*=#]').on('click', function (e) {
                 e.preventDefault();
-                $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 1500, 'slow');
+                $('html, body').animate({scrollTop: $($(this).attr('href')).offset().top}, 1500, 'slow');
             });
         });
     </script>
