@@ -14,16 +14,16 @@
                     <a class="nav-link" href="http://blog.ashrafkabir.com/" target="_blank">Blog</a>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <a class="nav-link" href="projects.php">Projects</a>
+                    <a class="nav-link" href="#projects">Projects</a>
                 </li>
                 <li class="nav-item" role="presentation">
                     <a class="nav-link" href="cv.php">CV</a>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <a class="nav-link" href="contact.php">Contact</a>
+                    <a class="nav-link" href="#contact">Contact</a>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <a class="nav-link" href="hire-me.php">Hire me</a>
+                    <a class="nav-link" href="#hireme">Hire me</a>
                 </li>
             </ul>
         </div>
