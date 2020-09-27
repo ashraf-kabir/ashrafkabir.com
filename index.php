@@ -70,10 +70,11 @@
                     <div data-aos="zoom-in-up" class="item">
                         <div class="row">
                             <div class="col-md-6">
-                                <h3>Dev Intern, Media Analytics Team</h3>
-                                <h4 class="organization" style="font-size: 18px;">Magnito Digital</h4>
+                                <h3>Jr. Executive (part-time)</h3>
+                                <h3>Ad Operations and Analytics Team</h3>
+                                <h4 class="organization" style="font-size: 18px;">Magnito Digital Ltd.</h4>
                             </div>
-                            <div class="col-md-6"><span class="period">04/2020 -Present</span></div>
+                            <div class="col-md-6"><span class="period">09/2020 -Present</span></div>
                         </div>
                         <p class="text-muted">Magnito Digital is the largest digital agency of Bangladesh with a team of
                                               more than 90 people. We are famous for our unconventional company
@@ -520,7 +521,7 @@
                             <div class="col-9">
                                 <span>
                                     <a href="https://github.com/ashraf-kabir/"
-                                       target="_blank">https://github.com/ashraf-kabir/</a>
+                                       target="_blank" style="text-decoration: none;">https://github.com/ashraf-kabir/</a>
                                 </span>
                             </div>
                         </div>
@@ -529,7 +530,7 @@
                             <div class="col-9">
                                 <span>
                                     <a href="https://www.linkedin.com/in/ashraf-kabir/"
-                                       target="_blank">ashraf-kabir</a>
+                                       target="_blank" style="text-decoration: none;">ashraf-kabir</a>
                                 </span>
                             </div>
                         </div>
@@ -537,7 +538,7 @@
                             <div class="col-1"><i class="icon ion-social-facebook icon"></i></div>
                             <div class="col-9">
                                 <span>
-                                    <a href="https://www.facebook.com/sonnet404/" target="_blank">sonnet404</a>
+                                    <a href="https://www.facebook.com/sonnet404/" target="_blank" style="text-decoration: none;">sonnet404</a>
                                 </span>
                             </div>
                         </div>
@@ -545,7 +546,7 @@
                             <div class="col-1"><i class="icon ion-social-twitter icon"></i></div>
                             <div class="col-9">
                                 <span>
-                                    <a href="https://twitter.com/ashraf1Q95" target="_blank">ashraf1Q95</a>
+                                    <a href="https://twitter.com/ashraf1Q95" target="_blank" style="text-decoration: none;">ashraf1Q95</a>
                                 </span>
                             </div>
                         </div>
@@ -560,7 +561,7 @@
                             <div class="form-group">
                                 <label for="subject">Subject</label>
                                 <select class="form-control" id="subject" required="">
-                                    <option value="" selected="">Choose Subject</option>
+                                    <option value="" selected="">Choose Type</option>
                                     <option value="1">Web Developer</option>
                                     <option value="2">Image Editor</option>
                                     <option value="3">Content Creator</option>

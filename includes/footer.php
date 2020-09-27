@@ -1,4 +1,4 @@
-<footer class="page-footer">
+<footer class="page-footer" style="background-color: #CFE0C3;">
     <div class="container">
         <div class="text-center">
             Copyright &copy; MMXX Ashraf Kabir
@@ -10,8 +10,14 @@
             <a href="https://github.com/ashraf-kabir/" style="background-color: rgb(0,0,0);" target="_blank">
                 <i class="icon ion-social-github"></i>
             </a>
+            <a href="https://www.linkedin.com/in/ashraf-kabir/" style="background-color: rgb(40,103,178);" target="_blank">
+                <i class="icon ion-social-linkedin"></i>
+            </a>
             <a href="https://twitter.com/ashraf1Q95" style="background-color: rgb(29,161,242);" target="_blank">
                 <i class="icon ion-social-twitter"></i>
+            </a>
+            <a href="https://www.instagram.com/sonnet404/" style="background-color: rgb(225,48,108);" target="_blank">
+                <i class="icon ion-social-instagram"></i>
             </a>
         </div>
     </div>
