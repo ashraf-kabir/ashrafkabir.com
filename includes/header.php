@@ -17,13 +17,10 @@
                     <a class="nav-link" href="#projects">Projects</a>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <a class="nav-link" href="cv.php">CV</a>
+                    <a class="nav-link" href="cv.php" target="_blank">CV</a>
                 </li>
                 <li class="nav-item" role="presentation">
                     <a class="nav-link" href="#contact">Contact</a>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <a class="nav-link" href="#hireme">Hire me</a>
                 </li>
             </ul>
         </div>

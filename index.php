@@ -29,15 +29,15 @@
     <!-- header -->
     <?php include "includes/header.php"; ?>
 
-    <main class="page lanidng-page">
+    <main class="page landing-page">
         <section class="clean-block clean-hero"
-                 style="background-image: url(&quot;assets/img/scenery/image3.jpg&quot;);color: rgba(0,0,0,0.85);">
+                 style="background-image: url(&quot;assets/img/hero/background-01.jpg&quot;);color: rgba(0,0,0,0.85);">
             <div class="text">
                 <h2>Bonjour!</h2>
                 <p>This is&nbsp;<strong>Ashraf&nbsp;Kabir</strong><br>a web developer who is busy 24/7 with php, js,
                    mysql & many more.</p>
                 <div class="d-none d-md-block">
-                    <a class="btn btn-outline-light btn-lg" type="button" href="hire-me.php">Hire Me</a>
+                    <a class="btn btn-outline-light btn-lg" type="button" href="#contact">Hire Me</a>
                 </div>
                 <a href="#section2" class="scroll-down" address="true"></a>
             </div>
@@ -54,8 +54,7 @@
                     <p>Hello! I am&nbsp;<strong>Ashraf&nbsp;Kabir</strong>. I'm an
                        enthusiastic, self-motivated, reliable, responsible and hard working person, a team worker &
                        adaptable to challenging situations.</p>
-                    <a class="btn btn-outline-primary" role="button"
-                       href="hire-me.php">Hire me</a>
+                    <a class="btn btn-outline-primary" role="button" href="#contact">Hire me</a>
                 </div>
             </div>
         </section>
@@ -241,7 +240,7 @@
 
                     </div>
                 </div>
-<!--                hobbies start-->
+                <!--hobbies start-->
                 <div class="hobbies group">
                     <div class="heading">
                         <h2 class="text-center">Hobbies</h2>
@@ -255,7 +254,7 @@
                                                       have also interest on learning new natural languages (e.g.
                                                       Spanish, French, etc.) on my leisure.</p>
                 </div>
-<!--                hobbies end-->
+                <!--hobbies end-->
             </div>
         </section>
         <!--cv end-->
@@ -266,6 +265,22 @@
                     <h2>RECENT PROJECTS</h2>
                 </div>
                 <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card border-0">
+                            <a href="https://ecommerce-ak.herokuapp.com/" target="_blank">
+                                <img class="card-img-top scale-on-hover"
+                                     src="assets/img/project-images/ecommerce.png"
+                                     alt="Card Image">
+                            </a>
+                            <div class="card-body">
+                                <h6><a href="https://ecommerce-ak.herokuapp.com/" target="_blank">MERN E-commerce
+                                                                                                  Application</a>
+                                </h6>
+                                <p class="text-muted card-text">Full functional E-commerce App</p>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-md-6 col-lg-4">
                         <div class="card border-0">
                             <a href="https://whispering-brushlands-59184.herokuapp.com/" target="_blank">
@@ -426,7 +441,7 @@
             <div class="container">
                 <div class="d-flex justify-content-center align-items-center content">
                     <h3>Like what you see?</h3>
-                    <a class="btn btn-outline-primary btn-lg" role="button" href="hire-me.php">Hire me</a>
+                    <a class="btn btn-outline-primary btn-lg" role="button" href="#contact">Hire me</a>
                 </div>
             </div>
         </section>
@@ -496,36 +511,49 @@
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-at icon"></i></div>
-                            <div class="col-9"><span>s.m.ashraf.kabir@g.bracu.ac.bd</span></div>
+                            <div class="col-9">
+                                <span>s.m.ashraf.kabir@g.bracu.ac.bd</span>
+                            </div>
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-social-github icon"></i></div>
-                            <div class="col-9"><span><a href="https://github.com/ashraf-kabir/" target="_blank">https://github.com/ashraf-kabir/</a></span>
+                            <div class="col-9">
+                                <span>
+                                    <a href="https://github.com/ashraf-kabir/"
+                                       target="_blank">https://github.com/ashraf-kabir/</a>
+                                </span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-social-linkedin icon"></i></div>
-                            <div class="col-9"><span><a href="https://www.linkedin.com/in/ashraf-kabir/"
-                                                        target="_blank">ashraf-kabir</a></span>
+                            <div class="col-9">
+                                <span>
+                                    <a href="https://www.linkedin.com/in/ashraf-kabir/"
+                                       target="_blank">ashraf-kabir</a>
+                                </span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-social-facebook icon"></i></div>
-                            <div class="col-9"><span><a href="https://www.facebook.com/sonnet404/"
-                                                        target="_blank">sonnet404</a></span>
+                            <div class="col-9">
+                                <span>
+                                    <a href="https://www.facebook.com/sonnet404/" target="_blank">sonnet404</a>
+                                </span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-social-twitter icon"></i></div>
-                            <div class="col-9"><span><a href="https://twitter.com/ashraf1Q95"
-                                                        target="_blank">ashraf1Q95</a></span>
+                            <div class="col-9">
+                                <span>
+                                    <a href="https://twitter.com/ashraf1Q95" target="_blank">ashraf1Q95</a>
+                                </span>
                             </div>
                         </div>
                     </div>
                 </div>
 
 
-                <div class="col-md-6" data-aos="slide-up">
+                <div class="col-md-6" data-aos="slide-up" id="hireme">
                     <div class="contact-info portfolio-info-card">
                         <h2>Hire Me</h2>
                         <form data-bss-recipient="4c7cf26e9b3f2f682adc8d185716b13c">

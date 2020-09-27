@@ -1,9 +1,7 @@
 <footer class="page-footer">
     <div class="container">
-        <div class="links">
-            <a href="cv.php" style="text-decoration: none; font-weight: bold;">About me</a>
-            <a href="contact.php" style="text-decoration: none; font-weight: bold;"">Contact me</a>
-            <a href="projects.php" style="text-decoration: none; font-weight: bold;"">Projects</a>
+        <div class="text-center">
+            Copyright &copy; MMXX Ashraf Kabir
         </div>
         <div class="social-icons">
             <a href="https://www.facebook.com/sonnet404" style="background-color: rgb(66,103,178);" target="_blank">
