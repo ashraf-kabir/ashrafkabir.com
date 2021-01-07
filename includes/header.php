@@ -4,8 +4,7 @@
             <span class="sr-only">Toggle navigation</span>
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div
-            class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="nav navbar-nav ml-auto">
                 <li class="nav-item" role="presentation">
                     <a class="nav-link active" href="index.php">Home</a>
@@ -17,7 +16,7 @@
                     <a class="nav-link" href="#projects">Projects</a>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <a class="nav-link" href="cv.php" target="_blank">CV</a>
+                    <a class="nav-link" href="ashraf-kabir-cv.php" target="_blank">CV</a>
                 </li>
                 <li class="nav-item" role="presentation">
                     <a class="nav-link" href="#contact">Contact</a>

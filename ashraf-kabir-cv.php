@@ -17,7 +17,7 @@
 <body>
 
     <main class="page cv-page">
-        <embed src="assets/files/ashrafkabir-cv.pdf" type="application/pdf" width="100%" height="960"/>
+        <embed src="assets/files/ashraf-kabir-cv.pdf" type="application/pdf" width="100%" height="960"/>
     </main>
 
     <script src="assets/js/jquery.min.js"></script>

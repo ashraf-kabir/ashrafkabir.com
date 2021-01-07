@@ -70,15 +70,26 @@
                     <div data-aos="zoom-in-up" class="item">
                         <div class="row">
                             <div class="col-md-6">
-                                <h3>Jr. Executive (part-time)</h3>
-                                <h3>Ad Operations and Analytics Team</h3>
+                                <h3>Remote PHP Developer (full-time)</h3>
+                                <h3></h3>
+                                <h4 class="organization" style="font-size: 18px;"><a href="https://manaknightdigital.com/" class="organization" style="font-size: 18px; text-decoration: none;">Manaknight Digital Inc.</a></h4>
+                            </div>
+                            <div class="col-md-6"><span class="period">11/2020 -Present</span></div>
+                        </div>
+                        <p class="text-muted">Manaknight Digital provides software solutions like web, mobile, automation, custom, etc.</p>
+                    </div>
+
+                    <div data-aos="zoom-in-up" class="item">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3>Intern (Web Development)</h3>
+                                <h6>Ad Operations and Analytics Team</h6>
                                 <h4 class="organization" style="font-size: 18px;">Magnito Digital Ltd.</h4>
                             </div>
-                            <div class="col-md-6"><span class="period">09/2020 -Present</span></div>
+                            <div class="col-md-6"><span class="period">04/2020 - 10/2020</span></div>
                         </div>
                         <p class="text-muted">Magnito Digital is the largest digital agency of Bangladesh with a team of
-                                              more than 90 people. We are famous for our unconventional company
-                                              culture.</p>
+                                              more than 90 people.</p>
                     </div>
 
                     <div data-aos="zoom-in-up" class="item">
@@ -88,7 +99,7 @@
                                 <h4 class="organization" style="font-size: 18px;">IEEE Brac University Student
                                                                                   Branch</h4>
                             </div>
-                            <div class="col-md-6"><span class="period">01/2020 -Present</span></div>
+                            <div class="col-md-6"><span class="period">01/2020 -12/2020</span></div>
                         </div>
                         <p class="text-muted">A non-profit organization, IEEE is the world's leading professional
                                               association for the advancement of technology.</p>
