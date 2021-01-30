@@ -515,7 +515,7 @@
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-ios-telephone icon"></i></div>
-                            <div class="col-9"><span>+880 1751336666</span></div>
+                            <div class="col-9"><span>+880 1717093791</span></div>
                         </div>
                         <div class="row">
                             <div class="col-1"><i class="icon ion-location icon"></i></div>
