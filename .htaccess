@@ -1,6 +1,0 @@
-#<IfModule mod_rewrite.c>
-    # https trick
-#    RewriteEngine On
-#    RewriteCond %{SERVER_PORT} 80
-#    RewriteRule ^(.*)$ https://ashrafkabir.com/$1 [R,L]
-#</IfModule>

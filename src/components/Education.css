@@ -1,0 +1,80 @@
+.education {
+  padding: 2rem 0 2rem 0;
+  background: #fdfcfa;
+}
+
+h1 {
+  text-align: center;
+}
+
+.education__container {
+  display: block;
+  padding: 1rem;
+  /* flex-flow: column; */
+  /* align-items: center; */
+  max-width: 720px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.education__item {
+  margin-bottom: 5px;
+}
+
+.education__position {
+  float: left;
+}
+
+/* .education__organization {
+  float: left;
+  margin-top: 1rem;
+  padding: 2px 8px 2px 8px;
+  background-color: #01a7c2;
+  color: aliceblue;
+  border-radius: 8%;
+} */
+
+.education__organization__link {
+  text-decoration: none;
+  color: black;
+}
+
+.education__organization__location {
+  font-family: serif;
+  font-weight: lighter !important;
+  font-size: 15px;
+  margin: 2px 0 4px 0;
+}
+
+.education__period {
+  float: right;
+}
+
+.education__desc1,
+.education__desc2,
+.education__desc3,
+.education__desc4 {
+  /* float: left; */
+  margin-top: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 15px !important;
+}
+
+/* @media only screen and (min-width: 1200px) {
+  .content__blog__container {
+    width: 84%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .education__item {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .cards__item {
+    margin-bottom: 2rem;
+  }
+} */

@@ -1,0 +1,94 @@
+.contact {
+  padding: 2rem 0 2rem 0;
+  background: #fdfcfa;
+}
+
+h1 {
+  text-align: center;
+}
+
+.contact__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.contact__item__img {
+  padding-top: 2rem;
+  border-radius: 50%;
+}
+
+.contact__text {
+  text-align: center;
+  font-size: x-large;
+  padding-top: 2rem;
+}
+
+/* * {
+  box-sizing: border-box;
+} */
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
+
+.row {
+  background-color: #e8f1f2;
+  border-radius: 25px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  display: table;
+  clear: both;
+}
+
+.contact_h1 {
+  padding-bottom: 10px;
+}
+
+.col_h2 {
+  padding-bottom: 10px;
+}
+
+.col_p {
+  padding-bottom: 10px;
+}
+
+.col_email {
+  text-decoration: none;
+  padding: 0 0 0 8px;
+}
+
+.col_phone {
+  color: #001a23;
+  font-weight: bold;
+  padding: 0 0 0 8px;
+}
+
+.col_social {
+  text-decoration: none;
+  padding: 0 0 0 8px;
+}
+
+@media screen and (max-width: 992px) {
+  .column {
+    float: none;
+    width: 100%;
+    padding: 10px 15px 10px 15px;
+  }
+}
+
+@media screen and (max-width: 600) {
+  .column {
+    float: none;
+    width: 100%;
+    padding: 10px 15px 10px 15px;
+  }
+}

@@ -1,0 +1,28 @@
+.about {
+  padding: 4rem;
+  background: #fdfcfa;
+}
+
+h1 {
+  text-align: center;
+}
+
+.about__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.about__item__img {
+  padding-top: 2rem;
+  border-radius: 50%;
+}
+
+.about__text {
+  text-align: center;
+  font-size: x-large;
+  padding-top: 2rem;
+}
