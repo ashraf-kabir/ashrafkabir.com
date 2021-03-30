@@ -9,7 +9,7 @@ function Experience() {
       <div className='experience__item'>
         <ExperienceItem
           experience_period='Nov 2020 - currently working'
-          experience_position='Remote PHP Developer (full-time)'
+          experience_position='Web Developer (Full-time->Remote)'
           experience_organization='Manaknight Digital Inc.'
           experience_organization_link='https://manaknightdigital.com/'
           experience_desc='Manaknight Digital provides software solutions like web, mobile, automation, custom, etc.'
