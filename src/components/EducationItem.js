@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 function EducationItem(props) {
   return (
@@ -11,6 +10,7 @@ function EducationItem(props) {
             className='education__organization__link'
             href={props.education_organization_link}
             target='_blank'
+            rel="noreferrer"
           >
             <h3 className='education__organization'>
               {props.education_organization}

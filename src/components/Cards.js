@@ -21,6 +21,12 @@ function Cards() {
               label='MERN'
               href='https://dev-connector-ak.herokuapp.com/'
             />
+            <CardItem
+              src='/images/project-images/laravel_ecom.png'
+              text='Laravel Ecommerce Site'
+              label='Laravel'
+              href='https://ecom.ashrafkabir.com/'
+            />
           </ul>
           <ul className='cards__items'>
             <CardItem

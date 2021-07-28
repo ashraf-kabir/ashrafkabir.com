@@ -74,6 +74,12 @@
   color: #fff;
 }
 
+.footer-link-items p {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
 .footer-link-items a {
   color: #fff;
   text-decoration: none;

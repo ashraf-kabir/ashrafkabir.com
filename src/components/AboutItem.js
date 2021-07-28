@@ -9,7 +9,7 @@ function AboutItem(props) {
           <figure>
             <img
               className='about__item__img'
-              alt='Test Image'
+              alt={props.header}
               src={props.src}
             />
           </figure>

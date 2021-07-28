@@ -28,6 +28,7 @@ function Contact() {
                 className='col_social'
                 href='https://github.com/ashraf-kabir/'
                 target='_blank'
+                rel="noreferrer"
               >
                 https://github.com/ashraf-kabir/
               </a>
@@ -39,6 +40,7 @@ function Contact() {
                 className='col_social'
                 href='https://www.linkedin.com/in/ashraf-kabir/'
                 target='_blank'
+                rel="noreferrer"
               >
                 https://www.linkedin.com/in/ashraf-kabir/
               </a>
@@ -50,6 +52,7 @@ function Contact() {
                 className='col_social'
                 href='https://www.facebook.com/sonnet404/'
                 target='_blank'
+                rel="noreferrer"
               >
                 https://www.facebook.com/sonnet404/
               </a>

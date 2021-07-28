@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 function ExperienceItem(props) {
   return (
@@ -8,7 +7,7 @@ function ExperienceItem(props) {
         <div className='experience__content'>
           <h4 className='experience__period'>{props.experience_period}</h4>
           <h3 className='experience__position'>{props.experience_position}</h3>
-          <a href={props.experience_organization_link} target='_blank'>
+          <a href={props.experience_organization_link} target='_blank' rel="noreferrer">
             <h3 className='experience__organization'>
               {props.experience_organization}
             </h3>

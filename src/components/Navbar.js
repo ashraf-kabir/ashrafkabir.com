@@ -48,6 +48,7 @@ function Navbar() {
                 target='_blank'
                 className='nav-links'
                 onClick={closeMobileMenu}
+                rel="noreferrer"
               >
                 Blog
               </a>
@@ -58,6 +59,7 @@ function Navbar() {
                 href='#projects'
                 className='nav-links'
                 onClick={closeMobileMenu}
+                rel="noreferrer"
               >
                 Projects
               </a>
@@ -69,6 +71,7 @@ function Navbar() {
                 target='_blank'
                 className='nav-links'
                 onClick={closeMobileMenu}
+                rel="noreferrer"
               >
                 CV
               </a>

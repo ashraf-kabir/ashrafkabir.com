@@ -1,7 +1,6 @@
 import React from 'react';
 import './Footer.css';
 import pdf from '../components/documents/ashraf-kabir-cv.pdf';
-import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 function Footer() {
@@ -30,29 +29,27 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About</h2>
-            <a href={pdf} target='_blank'>
-              CV
-            </a>
+            <a href={pdf} target='_blank' rel="noreferrer">CV</a>
           </div>
 
           <div class='footer-link-items'>
             <h2>Contact</h2>
-            <a>Phone: +88 01717093791</a>
+            <p>Phone: +88 01717093791</p>
             <a href='mailto:ashrafkabir95@gmail.com'>
               Email: ashrafkabir95@gmail.com
             </a>
-            <a>Location: Dhaka, Bangladesh</a>
+            <p>Location: Dhaka, Bangladesh</p>
           </div>
 
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <a href='https://www.facebook.com/sonnet404/' target='_blank'>
+            <a href='https://www.facebook.com/sonnet404/' target='_blank' rel="noreferrer">
               Facebook
             </a>
-            <a href='https://github.com/ashraf-kabir' target='_blank'>
+            <a href='https://github.com/ashraf-kabir' target='_blank' rel="noreferrer">
               GitHub
             </a>
-            <a href='https://www.linkedin.com/in/ashraf-kabir/' target='_blank'>
+            <a href='https://www.linkedin.com/in/ashraf-kabir/' target='_blank' rel="noreferrer">
               LinkedIn
             </a>
           </div>
@@ -109,6 +106,7 @@ function Footer() {
               href='https://www.facebook.com/sonnet404/'
               target='_blank'
               aria-label='Facebook'
+              rel="noreferrer"
             >
               <i class='fab fa-facebook-f' />
             </a>
@@ -125,6 +123,7 @@ function Footer() {
               href='https://github.com/ashraf-kabir'
               target='_blank'
               aria-label='GitHub'
+              rel="noreferrer"
             >
               <i class='fab fa-github' />
             </a>
@@ -141,6 +140,7 @@ function Footer() {
               href='https://www.linkedin.com/in/ashraf-kabir/'
               target='_blank'
               aria-label='LinkedIn'
+              rel="noreferrer"
             >
               <i class='fab fa-linkedin' />
             </a>

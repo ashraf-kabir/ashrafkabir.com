@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import EducationItem from './EducationItem';
 import './Education.css';
 
