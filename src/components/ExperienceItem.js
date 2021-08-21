@@ -13,6 +13,7 @@ function ExperienceItem(props) {
             </h3>
           </a>
           <p className='experience__desc'>{props.experience_desc}</p>
+          <a className='experience__website' href={props.experience_website} target='_blank' rel="noreferrer">{props.experience_website}</a>
         </div>
       </div>
     </>

@@ -64,7 +64,7 @@ function Contact() {
               Location: <br /> Dhaka, Bangladesh
             </p>
             <br />
-            <p>Working Hours: 9am to 9pm (UTC +6) Sunday to Friday</p>
+            <p>Working Hours: <br /> 10AM to 6PM (ET), Mon to Fri</p>
           </div>
         </div>
       </div>
