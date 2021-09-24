@@ -56,7 +56,7 @@ function Navbar() {
 
             <li className='nav-item'>
               <a
-                href='#projects'
+                href='/#projects'
                 className='nav-links'
                 onClick={closeMobileMenu}
                 rel="noreferrer"
@@ -78,7 +78,7 @@ function Navbar() {
             </li>
 
             <li className='nav-item'>
-              <a href='#contact' className='nav-links' onClick={closeMobileMenu}>
+              <a href='/#contact' className='nav-links' onClick={closeMobileMenu}>
                 Contact
               </a>
             </li>
