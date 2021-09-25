@@ -75,7 +75,7 @@
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 767px) {
   .NavbarItems {
     position: relative;
   }
@@ -90,6 +90,7 @@
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
+    justify-content: flex-start;
   }
 
   .nav-menu.active {

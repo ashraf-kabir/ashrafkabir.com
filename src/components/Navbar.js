@@ -1,10 +1,18 @@
 import React, { useState, useEffect } from 'react';
 import { Button } from './Button';
-import { Link } from 'react-router-dom';
+import { Link, withRouter } from 'react-router-dom';
 import pdf from '../components/documents/ashraf-kabir-cv.pdf';
 import './Navbar.css';
 
-function Navbar() {
+const isActive = (history, path) => {
+  if (history.location.pathname === path) {
+    return { borderBottom: '4px solid #fff' };
+  } else {
+    return { color: '#ffffff' };
+  }
+};
+
+const Navbar = ({ history }) => {
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
 
@@ -12,7 +20,7 @@ function Navbar() {
   const closeMobileMenu = () => setClick(false);
 
   const showButton = () => {
-    if (window.innerWidth <= 960) {
+    if (window.innerWidth <= 767) {
       setButton(false);
     } else {
       setButton(true);
@@ -37,7 +45,7 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link style={isActive(history, '/')} to='/' className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>
@@ -90,4 +98,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default withRouter(Navbar);
