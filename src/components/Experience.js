@@ -8,7 +8,7 @@ function Experience() {
       <h1>Work Experience</h1>
       <div className='experience__item'>
         <ExperienceItem
-          experience_period='Aug 2020 - currently working'
+          experience_period='Aug 2021 - currently working'
           experience_position='Software Engineer (Full-time)'
           experience_organization='Inovace Technologies'
           experience_organization_link='https://inovacetech.com/'
