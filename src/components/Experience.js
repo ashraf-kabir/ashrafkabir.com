@@ -8,6 +8,16 @@ function Experience() {
       <h1>Work Experience</h1>
       <div className='experience__item'>
         <ExperienceItem
+          experience_period='Aug 2020 - currently working'
+          experience_position='Software Engineer (Full-time)'
+          experience_organization='Inovace Technologies'
+          experience_organization_link='https://inovacetech.com/'
+          experience_desc='Inovace is one of the latest tech startups in Bangladesh, focusing on IT sector, especially on Embedded Systems Design and Software Development.'
+          experience_website='https://inovacetech.com/'
+        />
+      </div>
+      <div className='experience__item'>
+        <ExperienceItem
           experience_period='Nov 2020 - currently working'
           experience_position='Web Developer (Full-time->Remote)'
           experience_organization='Manaknight Digital Inc.'
