@@ -3,6 +3,10 @@
   "homepage": "https://ashrafkabir.com/",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.0.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
