@@ -18,7 +18,7 @@ function Experience() {
       </div>
       <div className='experience__item'>
         <ExperienceItem
-          experience_period='Nov 2020 - currently working'
+          experience_period='Nov 2020 - June 2022'
           experience_position='Web Developer (Full-time->Remote)'
           experience_organization='Manaknight Digital Inc.'
           experience_organization_link='https://manaknightdigital.com/'
