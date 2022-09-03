@@ -15,7 +15,7 @@ function Footer() {
 
           <div class='footer-link-items'>
             <h2>Contact</h2>
-            <p>Phone: +88 01717093791</p>
+            <p>Phone: +88 01751336666</p>
             <a href='mailto:ashrafkabir95@gmail.com'>
               Email: ashrafkabir95@gmail.com
             </a>

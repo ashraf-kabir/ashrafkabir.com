@@ -19,7 +19,7 @@ function Contact() {
 
             <p className='col_p'>
               <i className='fa fa-phone fa-rotate-90' />
-              <span className='col_phone'>+88 01717093791</span>
+              <span className='col_phone'>+88 01751336666</span>
             </p>
             
             <p className='col_p'>
