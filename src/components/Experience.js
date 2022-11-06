@@ -3,12 +3,23 @@ import ExperienceItem from './ExperienceItem';
 import './Experience.css';
 
 function Experience() {
+  const reliSourceDesc = 'ReliSource is a “Provider of Niche Products & Services” and works as your Extended Engineering Partner to deliver a combination of unique and Quality driven Technology...';
   return (
     <div className='experience'>
       <h1>Work Experience</h1>
       <div className='experience__item'>
         <ExperienceItem
-          experience_period='Aug 2021 - currently working'
+          experience_period='Sep 2022 - currently working'
+          experience_position='Web Developer (Full-time)'
+          experience_organization='ReliSource Technologies Ltd.'
+          experience_organization_link='https://www.relisource.com/'
+          experience_desc={reliSourceDesc}
+          experience_website='https://www.relisource.com/'
+        />
+      </div>
+      <div className='experience__item'>
+        <ExperienceItem
+          experience_period='Aug 2021 - Sep 2022'
           experience_position='Software Engineer (Full-time)'
           experience_organization='Inovace Technologies'
           experience_organization_link='https://inovacetech.com/'
