@@ -6,16 +6,16 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <div className='footer-container'>
-      <div class='footer-links'>
+      <div className='footer-links'>
         <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
+          <div className='footer-link-items'>
             <h2>About</h2>
             <a href={pdf} target='_blank' rel='noreferrer'>
               CV
             </a>
           </div>
 
-          <div class='footer-link-items'>
+          <div className='footer-link-items'>
             <h2>Contact</h2>
             <p>Phone: +88 01751336666</p>
             <a href='mailto:ashrafkabir95@gmail.com'>
@@ -24,7 +24,7 @@ function Footer() {
             <p>Location: Dhaka, Bangladesh</p>
           </div>
 
-          <div class='footer-link-items'>
+          <div className='footer-link-items'>
             <h2>Social Media</h2>
             <a
               href='https://www.facebook.com/sonnet404/'
@@ -51,46 +51,46 @@ function Footer() {
         </div>
       </div>
 
-      <section class='social-media'>
-        <div class='social-media-wrap'>
-          <div class='footer-logo'>
+      <section className='social-media'>
+        <div className='social-media-wrap'>
+          <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               Ashraf&nbsp;
-              <i class='fas fa-code' />
+              <i className='fas fa-code' />
             </Link>
           </div>
-          <small class='website-rights'>
+          <small className='website-rights'>
             © Ashraf Kabir {new Date().getFullYear()}
           </small>
-          <div class='social-icons'>
+          <div className='social-icons'>
             <a
-              class='social-icon-link facebook'
+              className='social-icon-link facebook'
               href='https://www.facebook.com/sonnet404/'
               target='_blank'
               aria-label='Facebook'
               rel='noreferrer'
             >
-              <i class='fab fa-facebook-f' />
+              <i className='fab fa-facebook-f' />
             </a>
 
             <a
-              class='social-icon-link github'
+              className='social-icon-link github'
               href='https://github.com/ashraf-kabir'
               target='_blank'
               aria-label='GitHub'
               rel='noreferrer'
             >
-              <i class='fab fa-github' />
+              <i className='fab fa-github' />
             </a>
 
             <a
-              class='social-icon-link linkedin'
+              className='social-icon-link linkedin'
               href='https://www.linkedin.com/in/ashraf-kabir/'
               target='_blank'
               aria-label='LinkedIn'
               rel='noreferrer'
             >
-              <i class='fab fa-linkedin' />
+              <i className='fab fa-linkedin' />
             </a>
           </div>
         </div>

@@ -22,7 +22,7 @@ const Navbar = ({ history }) => {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            <i class='fas fa-code' />
+            <i className='fas fa-code' />
             &nbsp;Ashraf
           </Link>
           <div className='menu-icon' onClick={handleClick}>

@@ -10,7 +10,7 @@ function Contact() {
           <div className='column'>
             <h2 className='col_h2'>Contact Info</h2>
             <p className='col_p'>
-              <i class='fa fa-envelope' />
+              <i className='fa fa-envelope' />
               <a className='col_email' href='mailto:ashrafkabir95@gmail.com'>
                 ashrafkabir95@gmail.com
               </a>
@@ -46,7 +46,7 @@ function Contact() {
             </p>
 
             <p className='col_p'>
-              <i class='fab fa-facebook-square' />
+              <i className='fab fa-facebook-square' />
               <a
                 className='col_social'
                 href='https://www.facebook.com/sonnet404/'
