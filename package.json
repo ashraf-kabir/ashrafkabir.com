@@ -1,20 +1,20 @@
 {
-  "name": "react-portfolio",
-  "homepage": "https://ashrafkabir.com/",
+  "name": "ashrafkabir",
+  "homepage": "https://ashrafkabir.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "16.0.0",
-    "npm": "7.0.0"
+    "node": "18.0.0",
+    "npm": "8.0.0"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
+    "react-scripts": "^5.0.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

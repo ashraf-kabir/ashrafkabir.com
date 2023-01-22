@@ -1,6 +1,6 @@
 import React from 'react';
-import './Cards.css';
 import CardItem from './CardItem';
+import './Cards.css';
 
 function Cards() {
   return (
@@ -25,7 +25,7 @@ function Cards() {
               src='/images/project-images/laravel_ecom.png'
               text='Laravel Ecommerce Site'
               label='Laravel'
-              href='https://ecom.ashrafkabir.com/'
+              href='https://github.com/ashraf-kabir/ecom-laravel/'
             />
           </ul>
           <ul className='cards__items'>
@@ -39,13 +39,13 @@ function Cards() {
               src='/images/project-images/blog.PNG'
               text='Laravel CMS'
               label='Laravel'
-              href='https://blog.ashrafkabir.com/'
+              href='https://github.com/ashraf-kabir/content-management-system/'
             />
             <CardItem
               src='/images/project-images/todos.PNG'
               text='Laravel Task Manager'
               label='Laravel'
-              href='https://todos.ashrafkabir.com/'
+              href='https://github.com/ashraf-kabir/task-manager-app'
             />
           </ul>
           <ul className='cards__items'>
@@ -53,13 +53,13 @@ function Cards() {
               src='/images/project-images/forum.png'
               text='Laravel Forum App'
               label='Laravel'
-              href='https://forum.ashrafkabir.com/'
+              href='https://github.com/ashraf-kabir/laravel-forum-discussion/'
             />
             <CardItem
               src='/images/project-images/project05.PNG'
               text='Laravel Blog'
               label='Laravel'
-              href='https://larablog.ashrafkabir.com/'
+              href='https://github.com/ashraf-kabir/blog-app/'
             />
             <CardItem
               src='/images/project-images/alumni.png'

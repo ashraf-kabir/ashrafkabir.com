@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import { Button } from './Button';
+import React, { useState } from 'react';
 import { Link, withRouter } from 'react-router-dom';
-import pdf from '../components/documents/ashraf-kabir-cv.pdf';
+import pdf from '../../components/documents/ashraf-kabir-cv.pdf';
 import './Navbar.css';
 
 const isActive = (history, path) => {
@@ -14,60 +13,51 @@ const isActive = (history, path) => {
 
 const Navbar = ({ history }) => {
   const [click, setClick] = useState(false);
-  const [button, setButton] = useState(true);
 
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
-
-  const showButton = () => {
-    if (window.innerWidth <= 767) {
-      setButton(false);
-    } else {
-      setButton(true);
-    }
-  };
-
-  useEffect(() => {
-    showButton();
-  }, []);
-
-  window.addEventListener('resize', showButton);
 
   return (
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            <i class='fas fa-code' />&nbsp;Ashraf
+            <i class='fas fa-code' />
+            &nbsp;Ashraf
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link style={isActive(history, '/')} to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link
+                style={isActive(history, '/')}
+                to='/'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
                 Home
               </Link>
             </li>
 
-            <li className='nav-item'>
+            {/* <li className='nav-item'>
               <a
                 href='https://blog.ashrafkabir.com/'
                 target='_blank'
                 className='nav-links'
                 onClick={closeMobileMenu}
-                rel="noreferrer"
+                rel='noreferrer'
               >
                 Blog
               </a>
-            </li>
+            </li> */}
 
             <li className='nav-item'>
               <a
                 href='/#projects'
                 className='nav-links'
                 onClick={closeMobileMenu}
-                rel="noreferrer"
+                rel='noreferrer'
               >
                 Projects
               </a>
@@ -79,14 +69,18 @@ const Navbar = ({ history }) => {
                 target='_blank'
                 className='nav-links'
                 onClick={closeMobileMenu}
-                rel="noreferrer"
+                rel='noreferrer'
               >
                 CV
               </a>
             </li>
 
             <li className='nav-item'>
-              <a href='/#contact' className='nav-links' onClick={closeMobileMenu}>
+              <a
+                href='/#contact'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
                 Contact
               </a>
             </li>
@@ -96,6 +90,6 @@ const Navbar = ({ history }) => {
       </nav>
     </>
   );
-}
+};
 
 export default withRouter(Navbar);

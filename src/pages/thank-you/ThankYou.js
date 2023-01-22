@@ -1,6 +1,6 @@
 import React from 'react';
-import '../../ThankYou.css'
-import ThankYouAnimation from '../ThankYouAnimation';
+import ThankYouAnimation from '../../components/ThankYouAnimation/ThankYouAnimation';
+import './ThankYou.css';
 
 function ThankYou() {
   return (

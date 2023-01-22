@@ -1,14 +1,23 @@
 import React from 'react';
-import '../App.css';
-import { Button } from './Button';
+import '../../App.css';
+import { Button } from '../Button/Button';
 import './HeroSection.css';
 
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video className='hero__video' src='/videos/video-123.mp4' autoPlay loop muted />
+      <video
+        className='hero__video'
+        src='/videos/video-123.mp4'
+        autoPlay
+        loop
+        muted
+      />
       <h1 className='hero__h1'>HELLO FOLKS</h1>
-      <p className='hero__about'>My name is Ashraf Kabir. <br/>I am a web developer based in Dhaka, Bangladesh</p>
+      <p className='hero__about'>
+        My name is Ashraf Kabir. <br />I am a web developer based in Dhaka,
+        Bangladesh
+      </p>
       <div className='hero-btns'>
         <Button
           className='btns'

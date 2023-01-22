@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import pdf from '../components/documents/ashraf-kabir-cv.pdf';
+import pdf from '../../components/documents/ashraf-kabir-cv.pdf';
 import { Link } from 'react-router-dom';
 
 function Footer() {
@@ -10,7 +10,9 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About</h2>
-            <a href={pdf} target='_blank' rel="noreferrer">CV</a>
+            <a href={pdf} target='_blank' rel='noreferrer'>
+              CV
+            </a>
           </div>
 
           <div class='footer-link-items'>
@@ -24,13 +26,25 @@ function Footer() {
 
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <a href='https://www.facebook.com/sonnet404/' target='_blank' rel="noreferrer">
+            <a
+              href='https://www.facebook.com/sonnet404/'
+              target='_blank'
+              rel='noreferrer'
+            >
               Facebook
             </a>
-            <a href='https://github.com/ashraf-kabir' target='_blank' rel="noreferrer">
+            <a
+              href='https://github.com/ashraf-kabir'
+              target='_blank'
+              rel='noreferrer'
+            >
               GitHub
             </a>
-            <a href='https://www.linkedin.com/in/ashraf-kabir/' target='_blank' rel="noreferrer">
+            <a
+              href='https://www.linkedin.com/in/ashraf-kabir/'
+              target='_blank'
+              rel='noreferrer'
+            >
               LinkedIn
             </a>
           </div>
@@ -41,7 +55,8 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              Ashraf&nbsp;<i class='fas fa-code' />
+              Ashraf&nbsp;
+              <i class='fas fa-code' />
             </Link>
           </div>
           <small class='website-rights'>
@@ -53,7 +68,7 @@ function Footer() {
               href='https://www.facebook.com/sonnet404/'
               target='_blank'
               aria-label='Facebook'
-              rel="noreferrer"
+              rel='noreferrer'
             >
               <i class='fab fa-facebook-f' />
             </a>
@@ -63,7 +78,7 @@ function Footer() {
               href='https://github.com/ashraf-kabir'
               target='_blank'
               aria-label='GitHub'
-              rel="noreferrer"
+              rel='noreferrer'
             >
               <i class='fab fa-github' />
             </a>
@@ -73,7 +88,7 @@ function Footer() {
               href='https://www.linkedin.com/in/ashraf-kabir/'
               target='_blank'
               aria-label='LinkedIn'
-              rel="noreferrer"
+              rel='noreferrer'
             >
               <i class='fab fa-linkedin' />
             </a>
